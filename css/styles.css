@@ -1,0 +1,26 @@
+h4{
+  padding-top: 20px;
+}
+
+.bg-lg p{
+  font-size: 12px;
+}
+
+p.right{
+  float: right;
+}
+
+img.logo{
+  float: left;
+  padding: 10%;
+  width: 100%;
+  height: auto;
+}
+
+div.bg-lg{
+  background-color: lightgray;
+}
+
+body{
+  font-family: sans-serif;
+}
