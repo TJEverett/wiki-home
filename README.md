@@ -1,6 +1,6 @@
 # Wiki Home
 
-#### Wikipedia Replica, 02/19/2020
+#### Wikipedia Replica, 02/20/2020
 
 #### By Tristen Everett
 
@@ -10,11 +10,8 @@ This is an attempt to recreate the wikipedia homepage using bootstrap and my cur
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1. Copy this Repository
+2. launch index.html
 
 ## Known Bugs
 
@@ -22,11 +19,9 @@ Incomplete
 
 ## Technologies Used
 
-HTML
-
-CSS
-
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ### License
 
