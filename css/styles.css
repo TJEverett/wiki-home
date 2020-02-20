@@ -17,12 +17,6 @@ img.logo{
   height: auto;
 }
 
-div.nav-side{
-  float: left;
-  width: 200px;
-  height: 100%;
-}
-
 div.bg-lg{
   background-color: lightgray;
 }
@@ -49,6 +43,14 @@ div.bg-lg{
 
 #day-header{
   background-color: lightskyblue;
+}
+
+#center-block{
+  background-color: lavenderblush;
+}
+
+#picture-header{
+  background-color: lightpink;
 }
 
 body{
