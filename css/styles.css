@@ -17,10 +17,42 @@ img.logo{
   height: auto;
 }
 
+div.nav-side{
+  float: left;
+  width: 200px;
+  height: 100%;
+}
+
 div.bg-lg{
   background-color: lightgray;
 }
 
+#left-block{
+  background-color: palegreen;
+}
+
+#article-header{
+  background-color: yellowgreen;
+}
+
+#know-header{
+  background-color: yellowgreen;
+}
+
+#right-block{
+  background-color: lightblue;
+}
+
+#news-header{
+  background-color: lightskyblue;
+}
+
+#day-header{
+  background-color: lightskyblue;
+}
+
 body{
+  margin-right: 2%;
   font-family: sans-serif;
+  
 }
